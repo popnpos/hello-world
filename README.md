@@ -1,4 +1,10 @@
 # hello-world
 Testing Repository 
-
-Inspect Element > Network > filter > .png > image | preview
+//--------------------------------------------------
+var functionName:String = "myMethod";
+function myMethod():void
+{
+  trace("myMethod");
+}
+this[functionName](); //traces "myMethod"
+//--------------------------------------------------
